@@ -39,7 +39,7 @@ csv_files = {
     "TikTok - Posts.csv": "Tiktok_Posts",
     "TikTok - Comments.csv": "Tiktok_Comments",
     "YouTube - Profiles.csv": "Youtube_Profiles",
-    "YouTube - Videos-posts.csv": "Youtube_Posts",
+    "YouTube - Videos posts.csv": "Youtube_Posts",
     "YouTube - Comments.csv": "Youtube_Comments"
 }
 
